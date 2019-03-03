@@ -32,9 +32,13 @@ Di dalam page ini user dapat melakukan operasi CRUD terhadap Mobil
 
 ![alt text](https://i.postimg.cc/xTxRwR0J/6.png)
 
+#### Page Pelanggan
+
 7. Operasi CRUD juga dapat dilakukan pada Page Pelanggan dengan hasil yang sama seperti operasi CRUD yang telah dicontohkan sebelumnya.
 
 ![alt text](https://i.postimg.cc/9MhtdgBS/7.png)
+
+#### Page Sewa
 
 8. Operasi CRUD juga dapat dilakukan pada Page Sewa dengan hasil yang sama seperti operasi CRUD yang telah dicontohkan sebelumnya, Pada page sewa ini merupakan gabungan dari 3 tabel
 
